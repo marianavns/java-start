@@ -12,11 +12,19 @@ Os códigos mesmo estão nas pastas. Let's code!
 
 ## Sumário
 
+- [Como configurar o ambiente](#Como-configurar-o-ambiente)
 - [Como executar um programa Java no prompt de comando](#Como-executar-um-programa-Java-no-prompt-de-comando)
 - [Tipos Primitivos](#Tipos-Primitivos)
   - [Hierarquia de Tipos Primitivos e Casting](#Hierarquia-de-Tipos-Primitivos-e-Casting)
 
 - 
+## Como configurar o ambiente:
+
+Faça os seguintes downloads e execute:
+- JDK;
+- Eclipse;
+- Spring Boot;
+
 
 ## Como executar um programa Java no prompt de comando
 
@@ -55,3 +63,4 @@ System.out.println(payment);
 ![](./assets/3-hierarchy.png)
 
 double -> int? Adicione `(int)` explicitamente. E o nome disso é **Type Casting**.
+
