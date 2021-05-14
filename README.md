@@ -25,6 +25,10 @@ Faça os seguintes downloads e execute:
 - Eclipse;
 - Spring Boot;
 
+Observação: Não esqueça de inserir a pasta bin do JDK na lista de "PATH" do seu computador. E por que? Sempre que você pedir que uma compilação seja feita, seu computador precisa saber qual o caminho (path) do compilador, que está justamente na pasta bin da pasta JDK. 
+
+Para fazer a inclusão, pesquise na barra de buscas do seu computador "variáveis de ambiente", clique em Path e adicione um novo, colando o endereço da pasta jdk/bin (copia o endereço direitinho de acordo com a pasta onde você instalou seu JDK, hein?).
+
 
 ## Como executar um programa Java no prompt de comando
 
